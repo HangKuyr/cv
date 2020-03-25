@@ -37,6 +37,7 @@ hr{
   border-bottom:none;
   width: 4%;
   margin: 100px auto 100px auto;
+  clear: right;
 }
 
 a{
